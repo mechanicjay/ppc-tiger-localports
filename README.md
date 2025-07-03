@@ -10,5 +10,7 @@ These popped up as they are in the prereq list for doing the local build of @cla
 Perhaps this is useful.  
 
 
-
+## How to use this.
+1) Clone this repo
+2) Follow the instructions here to point macports to it: https://guide.macports.org/chunked/development.local-repositories.html
 
